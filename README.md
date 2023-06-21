@@ -103,5 +103,5 @@ helpful resource for your reference
 
 
 [jetbot-figure]: https://raw.githubusercontent.com/wiki/NVIDIA-AI-IOT/jetbot/images/jetson-jetbot-illustration_1600x1260.png
-[vip-logo]: vip-logo.png
+[vip-logo]: images/vip-logo.png
    
