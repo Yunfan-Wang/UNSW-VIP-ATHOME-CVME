@@ -8,7 +8,7 @@ This is a student project on the computer vision function of the robot.
     <li>
       <a href="#program-authority">Program Authority</a>
       <ul>
-        <li><a href="#people">People</a></li>
+        <li><a href="#instructors">Instructors</a></li>
       </ul>
     </li>
     <li>
@@ -37,7 +37,7 @@ TEAM:          CVME
 
 This course is provided by UNSW VIP (VERTICALLY INTEGRATED PROJECTS) programs.
 
-### People
+### Instructors
 Prof. Maurice Pagnucco
 
 Associate Prof. Yang Song
