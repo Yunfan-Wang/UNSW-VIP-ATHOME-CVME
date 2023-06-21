@@ -90,8 +90,13 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
+Jiawei Deng - 470727102doc@gmail.com
+
+Jun McPhee  - junmcphee@gmail.com
+
 Yunfan Wang - [@DamienWang](https://hcibodi.org/1144-2/) - z5320828@ad.unsw.edu.au
 
+（alphabetical order）
 Project Link: [UNSW-VIP-CVME-2023](https://github.com/Fociire/UNSW--HOME-VIP-CVME)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -101,7 +106,7 @@ Project Link: [UNSW-VIP-CVME-2023](https://github.com/Fociire/UNSW--HOME-VIP-CVM
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-helpful resource for your reference
+helpful resources for your reference
 * [jetbot-specs](https://jetbot.org/master/hardware_setup.html)
 * [jetbot-tutorial](https://github.com/NVIDIA-AI-IOT/jetbot)
 
