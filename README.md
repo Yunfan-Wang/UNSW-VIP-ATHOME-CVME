@@ -39,8 +39,11 @@ This course is provided by UNSW VIP (VERTICALLY INTEGRATED PROJECTS) programs.
 
 ### People
 Prof. Maurice Pagnucco
+
 Associate Prof. Yang Song
+
 Prof. Claude Sammut
+
 Prof. Mari Velonaki
 
 
