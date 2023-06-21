@@ -38,6 +38,11 @@ TEAM:          CVME
 This course is provided by UNSW VIP (VERTICALLY INTEGRATED PROJECTS) programs.
 
 ### People
+Prof. Maurice Pagnucco
+Associate Prof. Yang Song
+Prof. Claude Sammut
+Prof. Mari Velonaki
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -55,7 +60,7 @@ This course is provided by UNSW VIP (VERTICALLY INTEGRATED PROJECTS) programs.
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Unfortunately, this is not an opensource library, only permitted personnel is entitled to access and modification to this project.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
