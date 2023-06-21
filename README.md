@@ -108,6 +108,5 @@ Use this space to list resources you find helpful and would like to give credit 
 
 
 [jetbot-figure]: https://raw.githubusercontent.com/wiki/NVIDIA-AI-IOT/jetbot/images/jetson-jetbot-illustration_1600x1260.png
-
-   [vip-logo]: images/UNSW_ChallENG Program_VIP_Logo-01 - Small_5.png
+[vip-logo]: images/UNSW_ChallENG Program_VIP_Logo-01 - Small_5.png
    
