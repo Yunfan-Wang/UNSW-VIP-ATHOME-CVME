@@ -89,14 +89,17 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
 ## Contact
+In alphabetical order:
 
-Jiawei Deng - 470727102doc@gmail.com
+Jiawei Deng   - 470727102doc@gmail.com
 
-Jun McPhee  - junmcphee@gmail.com
+Jonathan Dang - jonnydang2004@gmail.com
 
-Yunfan Wang - [@DamienWang](https://hcibodi.org/1144-2/) - z5320828@ad.unsw.edu.au
+Jun McPhee    - junmcphee@gmail.com
 
-（alphabetical order）
+Yunfan Wang   - [@DamienWang](https://hcibodi.org/1144-2/) - z5320828@ad.unsw.edu.au
+
+Yvonne Huang  - z5368358@ad.unsw.edu.au
 
 Project Link: [UNSW-VIP-CVME-2023](https://github.com/Fociire/UNSW--HOME-VIP-CVME)
 
