@@ -11,8 +11,6 @@ This is a student project on the computer vision function of the robot.
         <li><a href="#people">People</a></li>
       </ul>
     </li>
-
-
     <li>
       <a href="#hardware">Hardware</a>
       <ul>
@@ -84,9 +82,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - z5320828@ad.unsw.edu.au
+Yunfan Wang - [@DamienWang](https://hcibodi.org/1144-2/) - z5320828@ad.unsw.edu.au
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [UNSW-VIP-CVME-2023](https://github.com/Fociire/UNSW--HOME-VIP-CVME)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
