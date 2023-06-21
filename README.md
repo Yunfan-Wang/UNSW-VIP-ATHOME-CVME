@@ -11,7 +11,6 @@ This is a student project on the computer vision function of the robot.
         <li><a href="#people">People</a></li>
       </ul>
     </li>
-    
     <li>
       <a href="#hardware">Hardware</a>
       <ul>
