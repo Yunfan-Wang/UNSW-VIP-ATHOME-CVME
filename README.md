@@ -11,12 +11,12 @@ This is a student project on the computer vision function of the robot.
         <li><a href="#people">People</a></li>
       </ul>
     </li>
+    
     <li>
       <a href="#hardware">Hardware</a>
       <ul>
         <li><a href="#jetbot">Jetbot</a></li>
       </ul>
-    
     </li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -40,7 +40,7 @@ This course is provided by UNSW VIP (VERTICALLY INTEGRATED PROJECTS) programs.
 
 ### People
 
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -51,6 +51,7 @@ This course is provided by UNSW VIP (VERTICALLY INTEGRATED PROJECTS) programs.
 [![jetbot][jetbot-figure]](https://github.com/NVIDIA-AI-IOT/jetbot/tree/master)
 
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 ## Contributing
