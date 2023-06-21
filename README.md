@@ -33,8 +33,11 @@ This is a student project on the computer vision function of the robot.
 [![logo][vip-logo]](https://www.challeng.unsw.edu.au/challeng-projects/ai-4-everyone)
 
 PROJECT NAME:  AI 4 Everyone
+
 COURSE CODE:   ENGG2600/3600/4600
+
 TEAM:          CVME
+
 This course is provided by UNSW VIP (VERTICALLY INTEGRATED PROJECTS) programs.
 
 ### People
@@ -108,5 +111,5 @@ Use this space to list resources you find helpful and would like to give credit 
 
 
 [jetbot-figure]: https://raw.githubusercontent.com/wiki/NVIDIA-AI-IOT/jetbot/images/jetson-jetbot-illustration_1600x1260.png
-[vip-logo]: images/UNSW_ChallENG Program_VIP_Logo-01 - Small_5.png
+[vip-logo]: vip-logo.png
    
