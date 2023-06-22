@@ -95,6 +95,8 @@ Jiawei Deng   - 470727102doc@gmail.com
 
 Jonathan Dang - jonnydang2004@gmail.com
 
+Julie Seo     - julie.seo.2000@gmail.com
+
 Jun McPhee    - junmcphee@gmail.com
 
 Yunfan Wang   - [@DamienWang](https://hcibodi.org/1144-2/) - z5320828@ad.unsw.edu.au
