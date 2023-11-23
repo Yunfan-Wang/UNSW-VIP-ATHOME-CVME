@@ -9,8 +9,17 @@ This folder contains 5 Jupyter notebooks that navigates the jetbot using compute
 5. `navigate.ipynb`: using the road following model and waypoint detection model to navigate the jetbot.
 
 An example setup might look like this:
-![Alt text](../../images/setup.jpg)
+![Alt text](img/setup.jpg)
 where white masking tape represents roads and red dots represent waypoints.
+
+Examples of images collected as part of the dataset include:
+- `true` class for waypoint detection:
+![Alt text](img/true.jpg)
+- `false` class for waypoint detection:
+![Alt text](img/false.jpg)
+- road following:
+![Alt text](img/road.jpg)
+(x,y) = (058,185)
 
 The models produced are:
 - `best_waypoint_model.pth` is an AlexNet model trained on a dataset consisting of 2 classes (each with ~50 images, over 30 epochs) using `waypoint_train_model.ipynb`.
