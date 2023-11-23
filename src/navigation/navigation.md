@@ -9,7 +9,7 @@ This folder contains 5 Jupyter notebooks that navigates the jetbot using compute
 5. `navigate.ipynb`: using the road following model and waypoint detection model to navigate the jetbot.
 
 An example setup might look like this:
-![Alt text](setup.jpg)
+![Alt text](../../images/setup.jpg)
 where white masking tape represents roads and red dots represent waypoints.
 
 The models produced are:
