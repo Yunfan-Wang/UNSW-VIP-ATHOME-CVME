@@ -94,7 +94,7 @@ class NurseryHome:
 
             visited.add(current_room)
 
-            if current_room == dest.name:
+            if current_room == dest:
                 # for room in path: print(room.name)
                 return path
 

@@ -36,8 +36,8 @@ class Robot:
         for room in roomPath:
             self.moveToAdjacent(room)
     
-    def move_to(self, dest: Room):
-        if self.room.name == dest.name: 
+    def move_to(self, dest):
+        if self.room.name == dest: 
             return
         
         roomPath = self.home.getPathToRoom(self.room, dest)
@@ -45,7 +45,6 @@ class Robot:
             self.moveToAdjacent(room)
 
     def moveToAdjacent(self, dest: Room):
-        # LOGIC FOR MOVING ROBOT HERE
         # Execute movement until it hits a waypoint, then exit out of the movement functionality
         
         self.room = dest
