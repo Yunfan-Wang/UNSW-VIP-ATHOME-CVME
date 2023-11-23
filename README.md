@@ -1,6 +1,8 @@
 # UNSW--HOME-VIP-CVME
 This is a student project on the computer vision function of the robot.
 
+Imagine a world where technology becomes so advanced that it has a conscience! Well, this isn’t too far from the truth. Our team has been working on a project where we leverage the fields of Computer Vision and Machine Ethics to program a robot which can form its own moral decisions based on interactions with the environment, with a focus on designing ethical AI which we hope can be applied to infinitely many real world scenarios.
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
