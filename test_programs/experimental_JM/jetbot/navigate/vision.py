@@ -84,7 +84,7 @@ class Vision:
             vp_x += x
             vp_y += y
             
-        if len(intersections) is 0:
+        if len(intersections) == 0:
             return None
         
         vp_x /= len(intersections)
