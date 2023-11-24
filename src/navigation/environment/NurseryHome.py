@@ -55,7 +55,10 @@ class NurseryHome:
         
         if not self.directed:
             self.links[room2.name].append(room1.name)
-        
+    
+    def numRoom(self):
+        return len(self.rooms)
+    
     def addObject(self, roomName, objName):
         for room in self.rooms:
             if room.name == roomName:
@@ -74,6 +77,14 @@ class NurseryHome:
         # If room does not exist
         print("Room does not exist\n")
         return None
+    
+    def findRoomFromIndex(self, index):
+        try:
+            return self.rooms[index]
+        # If room does not exist
+        except Exception:
+            print("Room does not exist\n")
+            return None
     
     def moveEntity(self, entity: str, dest: str):
         for room in self.rooms:

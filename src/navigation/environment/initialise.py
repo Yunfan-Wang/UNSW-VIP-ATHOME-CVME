@@ -59,18 +59,17 @@ class Initialise:
         
         print("\nhome initialising.....\n")
         self.home.showAll()
-        
-        # Initialise the robot
-        print("\ninitialising robot...\n")
-        
-        robot = Robot(self.home, bedroom)
-        pddlReader = PDDLReader(robot)
-        
-        return robot, pddlReader
-        
-        
 
+        
+        
+# # Initialise the robot
+# home = Initialise()
+# home.setup()
 
+# robot = Robot(home, bedroom)
+# pddlReader = PDDLReader(robot)
+
+# robot = Robot(home, home.findRoomFromName("bathroom"))
 
 # # Testing
 # home.getPathToObj(bathroom, "scissors")
